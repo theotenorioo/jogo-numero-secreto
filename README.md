@@ -2,10 +2,6 @@
 
 Este é um jogo simples desenvolvido em JavaScript, onde o jogador deve adivinhar um número secreto gerado aleatoriamente. O jogo apresenta uma interface amigável e interativa.
 
-## Captura de Tela
-
-![Screenshot 1](./img/screencapture-secret-number-game-js-vercel-app.png)
-
 ## Funcionalidades
 
 - Geração aleatória de um número secreto entre 1 e 100.
